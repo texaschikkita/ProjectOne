@@ -1,1 +1,5 @@
 # project-one
+
+SPOTIFY EDA
+
+FINAL ANALYSIS:
