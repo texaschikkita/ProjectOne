@@ -1,0 +1,97 @@
+Conclusion
+
+There may be some correlation between social media popularity and Spotify streams, but it's not necessarily a direct one-to-one relationship.
+While the numbers in the plots definitely show a correlation, the accuracy is limited due to the fact that I only quantified results for musicians with number one hits on spotify.  Cross-referencing artists of songs that had the top streams within a given dataset with the most popular musicians on youtube and instagram, showed a positive correlation coefficient and such, but that was limited to about 200 artists.   It wasn't really a random set therefore the results can really only be used for purposes in this project.  In order to present a clear and unbiased analysis, I would have needed to include a wider set of artists, or at least a random one that included popular artists who haven't had top streamed songs in a while, and songs/streams from artists that don't have one of the top 100IG and YouTube accounts.  
+
+On one hand, having a large social media following can certainly help an artist or musician gain more visibility and exposure. By sharing updates, photos, and videos on social media platforms like Instagram, Twitter, and TikTok, an artist can engage with fans and potential listeners, share new music releases, and promote upcoming shows and events. This increased visibility can potentially translate to more streams on Spotify and other streaming platforms.
+
+However, social media popularity alone is not enough to guarantee high streaming numbers on Spotify. Other factors such as the quality of the music, the timing and promotion of the release, the artist's fan base and demographics, and the current trends in music and culture can all influence streaming numbers.
+
+Moreover, an artist's social media popularity and their streaming success may be influenced by other factors, such as marketing and advertising strategies, radio play, and touring activity.
+
+So while social media can play a role in boosting an artist's Spotify streams, it's not the only or the most important factor. Ultimately, an artist's success on Spotify depends on a range of factors, including the quality of their music, their marketing strategies, and their ability to connect with their audience.
+
+
+To determine the correlation value between a musician's social media popularity and their Spotify streams, we would need to collect data on both variables that were successful and unsuccessful and then calculate the correlation coefficient.   
+
+The correlation coefficient is a statistical measure that indicates the strength and direction of the linear relationship between two variables. It ranges from -1 to +1, with a value of 0 indicating no correlation, a value of +1 indicating a perfect positive correlation, and a value of -1 indicating a perfect negative correlation.
+
+Correlating success with success doesn't give an accurate representation as the data is already set to 1 (or very close to 1) on both datasets.  
+
+In the past, there have been several artists who have had high Spotify streams as well as large followings on Instagram and YouTube. For example, in 2021, artists such as Olivia Rodrigo, Lil Nas X, and Dua Lipa were among the top-streamed artists on Spotify and also had large followings on Instagram and YouTube.
+
+Breaking it down for one year: 2021
+
+Olivia Rodrigo: She had one of the top-streamed songs of the year with "drivers license" and went on to release a highly successful debut album, "Sour". She also has a large following on Instagram, with over 16 million followers as of September 2021, and over 2.8 million subscribers on her YouTube channel.
+
+Dua Lipa: She had multiple hit songs in 2021, including "Levitating" and "Don't Start Now", which contributed to her high streaming numbers on Spotify. She also has a large following on Instagram, with over 70 million followers as of September 2021, and over 21 million subscribers on her YouTube channel.
+
+The Weeknd: He had several hit songs in 2021, including "Blinding Lights" and "Save Your Tears", which contributed to his high streaming numbers on Spotify. He also has a large following on Instagram, with over 31 million followers as of September 2021, and over 19 million subscribers on his YouTube channel.
+
+It's difficult to provide an exact number for the artists that had top Spotify streams in 2021 but had low followings on Instagram and YouTube, as it would require an extensive analysis of data on both variables
+
+However, without the specific data on both variables, I cannot provide an exact correlation value between a musician's social media popularity and their Spotify streams. It's also worth noting that correlation does not necessarily imply causation, so a high correlation value does not necessarily mean that social media popularity directly causes high Spotify streams, or vice versa. Other factors could also be influencing both variables.
+
+It's difficult to provide an exact number for the artists that had top Spotify streams in over the last several years but had low followings on Instagram and YouTube, as it would require a much deper analysis of data on both variables. 
+
+Musicians with most popular accounts on Instagram:
+Ariana Grande: 248 million followers
+Selena Gomez: 246 million followers
+Beyoncé: 187 million followers
+Taylor Swift: 158 million followers
+Justin Bieber - 163 million followers
+Jennifer Lopez - 147 million followers
+Nicki Minaj - 143 million followers
+
+Musicians with the most subscribers on YouTube
+T-Series - 192 million subscribers 
+Justin Bieber - 67.7 million subscribers
+BLACKPINK - 65.6 million subscribers 
+Marshmello - 54.4 million subscribers
+Ed Sheeran - 50.8 million subscribers
+Eminem - 49.7 million subscribers
+Ariana Grande - 44.8 million subscribers
+J Balvin - 44.6 million subscribers 
+Bad Bunny - 43.8 million subscribers 
+Billie Eilish - 40.1 million subscribers
+Rihanna - 38.6 million subscribers
+Taylor Swift - 38.6 million subscribers
+Ozuna - 30.7 million subscribers 
+Daddy Yankee - 30.3 million subscribers 
+Shakira - 24.4 million subscribers
+
+
+The top spotify streaming artists of 2021:
+Bad Bunny - 8.3 billion streams
+Drake - 7.5 billion streams
+J Balvin - 6.9 billion streams
+The Weeknd - 4.6 billion streams
+Dua Lipa - 5 billion streams
+Justin Bieber - 4.3 billion streams
+Ariana Grande - 4.1 billion streams
+Taylor Swift - 5.3 billion streams
+Ed Sheeran - 4.1 billion streams
+Billie Eilish - 3.5 billion streams
+Post Malone - 3.5 billion streams
+Harry Styles - 3.3 billion streams
+Olivia Rodrigo - 3.3 billion streams
+BTS - 3.2 billion streams
+Doja Cat - 3 billion stream
+
+
+Artists with highest Instagram and Youtube:
+Ariana Grande - Instagram: 248 million followers, YouTube: 44.8 million subscribers
+Dwayne "The Rock" Johnson - Instagram: 246 million followers (not a musician, but worth mentioning as he has a significant social media presence), YouTube: 7.74 million subscribers
+Selena Gomez - Instagram: 246 million followers, YouTube: 11.8 million subscribers
+Beyoncé - Instagram: 187 million followers, YouTube: 18.9 million subscribers
+Taylor Swift - Instagram: 158 million followers, YouTube: 38.6 million subscribers
+Justin Bieber - Instagram: 163 million followers, YouTube: 67.7 million subscribers
+Shakira - Instagram: 70 million followers, YouTube: 24.4 million subscribers
+Rihanna - Instagram: 102 million followers, YouTube: 38.6 million subscribers
+Billie Eilish - Instagram: 88 million followers, YouTube: 40.1 million subscribers
+Drake - Instagram: 77 million followers, YouTube: 22.9 million subscribers
+Marshmello - Instagram: 32.7 million followers, YouTube: 54.4 million subscribers
+Ed Sheeran - Instagram: 34.3 million followers, YouTube: 50.8 million subscribers
+The Weeknd - Instagram: 32.9 million followers, YouTube: 29.8 million subscribers
+Justin Timberlake - Instagram: 63 million followers, YouTube: 9.9 million subscribers
+Katy Perry - Instagram: 119 million followers, YouTube: 38.3 million subscribers
